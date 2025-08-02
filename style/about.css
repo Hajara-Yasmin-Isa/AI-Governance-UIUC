@@ -83,12 +83,11 @@
     margin: 0 2rem;
     text-align: center;
     white-space: nowrap;
-    font-family: cursive;
     font-weight: bold;
   }
   
   main {
-    text-align: left;
+    text-align: center;
     padding: 4rem 2rem 2rem 5rem;
     width: 75%;
     min-height: 120vh; /* Reduced from 120vh for better scrolling */
